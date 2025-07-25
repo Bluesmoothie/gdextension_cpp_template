@@ -3,3 +3,5 @@
 extension_api.json
 .sconsign.dblite
 *.so
+*.import
+*.uid
