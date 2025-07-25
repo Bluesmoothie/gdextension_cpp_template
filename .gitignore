@@ -1,0 +1,5 @@
+*.os
+.godot/
+extension_api.json
+.sconsign.dblite
+*.so
